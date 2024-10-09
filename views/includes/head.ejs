@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Profile Viewer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .input-section {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        .input-section input {
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            width: 300px;
+            margin-right: 10px;
+        }
+
+        .input-section button {
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .profile-details {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .profile-details img {
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+        }
+
+        .profile-details h2,
+        .profile-details h3 {
+            margin: 10px 0;
+        }
+
+        .posts {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 10px;
+        }
+
+        .posts img {
+            width: 100%;
+            border-radius: 8px;
+        }
+
+        .post-caption {
+            margin-top: 5px;
+            font-size: 14px;
+            color: #555;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+            color: #888;
+        }
+
+        .post-container {
+            margin: 20px 0px;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .header {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .header img {
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            margin-right: 10px;
+        }
+
+        .header .username {
+            font-weight: bold;
+        }
+
+        .header .more-options {
+            margin-left: auto;
+            font-size: 18px;
+        }
+
+        .post-image {
+            width: 100%;
+            height: 300px;
+        }
+
+        .interactions {
+            display: flex;
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .interactions img {
+            width: 24px;
+            height: 24px;
+            margin-right: 15px;
+        }
+
+        .details {
+            padding: 10px;
+        }
+
+        .details .likes-count {
+            font-weight: bold;
+        }
+
+        .details .caption {
+            margin-top: 5px;
+        }
+
+        .comments {
+            border-top: 1px solid #ddd;
+            padding: 10px;
+        }
+
+        .comments input {
+            width: calc(100% - 22px);
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .d-flex{
+            display: flex;
+            justify-content: space-between;
+        }
+    </style>
+</head>

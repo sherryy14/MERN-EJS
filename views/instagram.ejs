@@ -1,0 +1,49 @@
+<%- include("includes/head.ejs") %>
+    <body>
+        <div class="container">
+            <div class="profile-details">
+                <img src="<%= data.profile_image %>" alt="Profile Picture">
+                <h2>
+                    <%= data.fullname %>
+                </h2>
+                <h3>@<%= data.username %>
+                </h3>
+                <p>
+                    <span>Followers: <%= data.followers %></span>
+                    <span>Following: <%= data.following %></span>
+                </p>
+            </div>
+            <div class="posts">
+
+                <% data.posts.forEach(post=> { %>
+
+                    <div class="post-container">
+                        <img src="<%= post.image %>" alt="Post Image" class="post-image">
+                        <div class="interactions">
+                            <img src="https://source.unsplash.com/24x24/?heart" alt="Like">
+                            <img src="https://source.unsplash.com/24x24/?comment" alt="Comment">
+                            <img src="https://source.unsplash.com/24x24/?share" alt="Share">
+                            <img src="https://source.unsplash.com/24x24/?bookmark" alt="Save">
+                        </div>
+                        <div class="details">
+                            <div class="d-flex">
+                                <div class="likes-count">
+                                    <%= post.likes %> likes
+                                </div>
+                                <div class="likes-count">
+                                    <%= post.comments %> comments
+                                </div>
+                            </div>
+                            <div class="caption">
+                                <%= post.caption %>
+                            </div>
+                        </div>
+                    </div>
+
+                    <% }); %>
+            </div>
+            <%- include("includes/footer.ejs") %>
+
+        </div>
+    </body>
+    </html>

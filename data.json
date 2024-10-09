@@ -1,0 +1,423 @@
+[
+    {
+      "username": "sunnytravels",
+      "fullname": "Sunny Rivera",
+      "profile_image": "https://images.unsplash.com/photo-1521312701050-7e02855da60a",
+      "followers": 2456,
+      "following": 580,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+          "caption": "Exploring the mountains!",
+          "likes": 345,
+          "comments": 23
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1529245019870-59e3f9c6c4e6",
+          "caption": "Sunset at the beach",
+          "likes": 290,
+          "comments": 19
+        }
+      ]
+    },
+    {
+      "username": "fitlife_jane",
+      "fullname": "Jane Doe",
+      "profile_image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+      "followers": 12900,
+      "following": 130,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b",
+          "caption": "Morning workout session",
+          "likes": 1120,
+          "comments": 34
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1514995669114-d4e5c92b37a4",
+          "caption": "Healthy breakfast ideas",
+          "likes": 930,
+          "comments": 27
+        }
+      ]
+    },
+    {
+      "username": "urban_art_guy",
+      "fullname": "John Smith",
+      "profile_image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df",
+      "followers": 4780,
+      "following": 890,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913",
+          "caption": "Street art in the city",
+          "likes": 650,
+          "comments": 56
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1532775039813-6a82735f8b88",
+          "caption": "New mural complete!",
+          "likes": 720,
+          "comments": 42
+        }
+      ]
+    },
+    {
+      "username": "foodie_heaven",
+      "fullname": "Sara Lee",
+      "profile_image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+      "followers": 18450,
+      "following": 340,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1572441710431-935d51617886",
+          "caption": "Delicious ramen bowl",
+          "likes": 2400,
+          "comments": 134
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1547592180-8b05cc3b5ddf",
+          "caption": "Best sushi in town",
+          "likes": 3100,
+          "comments": 102
+        }
+      ]
+    },
+    {
+      "username": "tech_guru",
+      "fullname": "Mark Johnson",
+      "profile_image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61",
+      "followers": 9230,
+      "following": 780,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1518773553398-650c184e8420",
+          "caption": "Latest smartphone review",
+          "likes": 1500,
+          "comments": 78
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1517430816045-df4b7de27c58",
+          "caption": "Top 5 gadgets for 2024",
+          "likes": 1730,
+          "comments": 89
+        }
+      ]
+    },
+    {
+      "username": "stylediva",
+      "fullname": "Emily Davis",
+      "profile_image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      "followers": 32000,
+      "following": 450,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1520974732162-669d92e2b48f",
+          "caption": "Fall fashion trends",
+          "likes": 5400,
+          "comments": 202
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+          "caption": "My favorite accessories",
+          "likes": 4900,
+          "comments": 156
+        }
+      ]
+    },
+    {
+      "username": "petlovers",
+      "fullname": "Liam Brown",
+      "profile_image": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+      "followers": 7200,
+      "following": 630,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1574158622682-e40e69881006",
+          "caption": "My adorable puppy",
+          "likes": 2100,
+          "comments": 97
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1555685812-4b7432f7af36",
+          "caption": "Fun day at the park",
+          "likes": 1850,
+          "comments": 84
+        }
+      ]
+    },
+    {
+      "username": "travel_diaries",
+      "fullname": "Anna Thompson",
+      "profile_image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+      "followers": 15600,
+      "following": 870,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+          "caption": "Wanderlust vibes",
+          "likes": 3100,
+          "comments": 140
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1529245019870-59e3f9c6c4e6",
+          "caption": "Exploring new cultures",
+          "likes": 2800,
+          "comments": 132
+        }
+      ]
+    },
+    {
+      "username": "artofliving",
+      "fullname": "Lucas Miller",
+      "profile_image": "https://images.unsplash.com/photo-1521312701050-7e02855da60a",
+      "followers": 18400,
+      "following": 540,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1546967191-fdfb13ed6b1e",
+          "caption": "Peaceful retreat",
+          "likes": 2900,
+          "comments": 104
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1518152006812-edab29b069ac",
+          "caption": "Mindfulness moments",
+          "likes": 2700,
+          "comments": 86
+        }
+      ]
+    },
+    {
+      "username": "photography_love",
+      "fullname": "Sophia Wilson",
+      "profile_image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df",
+      "followers": 23400,
+      "following": 690,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+          "caption": "Captured in the moment",
+          "likes": 4200,
+          "comments": 167
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1518773553398-650c184e8420",
+          "caption": "Nature's beauty",
+          "likes": 3900,
+          "comments": 149
+        }
+      ]
+    },
+    {
+      "username": "codewizard",
+      "fullname": "Alex Anderson",
+      "profile_image": "https://images.unsplash.com/photo-1557330351-a30d77b4079b",
+      "followers": 9800,
+      "following": 310,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1554384645-13eab165c24b",
+          "caption": "Coding challenge complete!",
+          "likes": 1800,
+          "comments": 45
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1517430816045-df4b7de27c58",
+          "caption": "Debugging life",
+          "likes": 1700,
+          "comments": 38
+        }
+      ]
+    },
+    {
+      "username": "fitnessgoals",
+      "fullname": "Chris Lee",
+      "profile_image": "https://images.unsplash.com/photo-1534338551955-8e1b833bffba",
+      "followers": 12200,
+      "following": 410,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b",
+          "caption": "Intense workout today",
+          "likes": 2200,
+          "comments": 66
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1514995669114-d4e5c92b37a4",
+          "caption": "Nutrition is key",
+          "likes": 2100,
+          "comments": 53
+        }
+      ]
+    },
+    {
+      "username": "homechef",
+      "fullname": "Olivia Johnson",
+      "profile_image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+      "followers": 13400,
+      "following": 360,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1547592180-8b05cc3b5ddf",
+          "caption": "Cooking up a storm",
+          "likes": 2500,
+          "comments": 74
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1572441710431-935d51617886",
+          "caption": "My latest recipe",
+          "likes": 2400,
+          "comments": 69
+        }
+      ]
+    },
+    {
+      "username": "explore_world",
+      "fullname": "David Martin",
+      "profile_image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+      "followers": 15800,
+      "following": 760,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1529245019870-59e3f9c6c4e6",
+          "caption": "Adventures abroad",
+          "likes": 2900,
+          "comments": 116
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+          "caption": "New destinations",
+          "likes": 3100,
+          "comments": 128
+        }
+      ]
+    },
+    {
+      "username": "mindful_life",
+      "fullname": "Ava Martinez",
+      "profile_image": "https://images.unsplash.com/photo-1518152006812-edab29b069ac",
+      "followers": 19400,
+      "following": 540,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1546967191-fdfb13ed6b1e",
+          "caption": "Daily meditation",
+          "likes": 3200,
+          "comments": 134
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1520974732162-669d92e2b48f",
+          "caption": "Peace and tranquility",
+          "likes": 3000,
+          "comments": 127
+        }
+      ]
+    },
+    {
+      "username": "tech_trendz",
+      "fullname": "Michael Robinson",
+      "profile_image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61",
+      "followers": 11200,
+      "following": 520,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1517430816045-df4b7de27c58",
+          "caption": "Tech reviews",
+          "likes": 1900,
+          "comments": 56
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1518773553398-650c184e8420",
+          "caption": "Top gadgets of 2024",
+          "likes": 2100,
+          "comments": 62
+        }
+      ]
+    },
+    {
+      "username": "gourmet_goodness",
+      "fullname": "Emma Garcia",
+      "profile_image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+      "followers": 17400,
+      "following": 430,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1547592180-8b05cc3b5ddf",
+          "caption": "Fine dining experience",
+          "likes": 3700,
+          "comments": 146
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1572441710431-935d51617886",
+          "caption": "Gourmet dishes",
+          "likes": 3500,
+          "comments": 132
+        }
+      ]
+    },
+    {
+      "username": "urban_explorer",
+      "fullname": "Daniel Lee",
+      "profile_image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df",
+      "followers": 14900,
+      "following": 480,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913",
+          "caption": "Cityscapes",
+          "likes": 2700,
+          "comments": 114
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1532775039813-6a82735f8b88",
+          "caption": "Urban adventures",
+          "likes": 2500,
+          "comments": 101
+        }
+      ]
+    },
+    {
+      "username": "crafty_queen",
+      "fullname": "Grace Hill",
+      "profile_image": "https://images.unsplash.com/photo-1520974732162-669d92e2b48f",
+      "followers": 19800,
+      "following": 410,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1547592180-8b05cc3b5ddf",
+          "caption": "Handmade crafts",
+          "likes": 3400,
+          "comments": 150
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1572441710431-935d51617886",
+          "caption": "DIY decor",
+          "likes": 3100,
+          "comments": 134
+        }
+      ]
+    },
+    {
+      "username": "wildlife_wanderer",
+      "fullname": "James King",
+      "profile_image": "https://images.unsplash.com/photo-1518152006812-edab29b069ac",
+      "followers": 14900,
+      "following": 390,
+      "posts": [
+        {
+          "image": "https://images.unsplash.com/photo-1529245019870-59e3f9c6c4e6",
+          "caption": "Exploring the wild",
+          "likes": 2700,
+          "comments": 110
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+          "caption": "In the heart of nature",
+          "likes": 2500,
+          "comments": 96
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram IG</title>
+</head>
+
+<body>
+    <h1>Instagram</h1>
+    <h2>Username: <%= data.user.username %>
+    </h2>
+    <h2>Name: <%= data.user.full_name %>
+    </h2>
+    <h5>Caption: <%= data.caption.text %>
+    </h5>
+
+    <h3>Post</h3>
+
+
+
+    <p>No Of Likes In This Post <%= data.likes.count %>
+    </p>
+    <p>No Of Comments In This Post <%= data.comments.count %>
+    </p>
+    <button>Follow</button>
+    <button>Message</button>
+
+</body>
+
+</html>
